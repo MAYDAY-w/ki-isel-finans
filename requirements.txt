@@ -1,0 +1,5 @@
+# Kişisel Muhasebe Web Sunucusu Bağımlılıkları
+# Python standart kütüphanesi (http.server) ile harici bağımlılık gerektirmeden çalışır.
+# İsteğe bağlı WSGI/ASGI sunucusu için:
+gunicorn>=21.2.0
+uvicorn>=0.28.0

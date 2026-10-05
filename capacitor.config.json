@@ -1,0 +1,9 @@
+{
+  "appId": "com.kisiselmuhasebe.app",
+  "appName": "Kişisel Muhasebe",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
